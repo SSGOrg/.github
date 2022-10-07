@@ -1,10 +1,8 @@
 ## Welcome to the SSG Open Source Collaboration. 👋  
-We are a team of developers from all of the world who are working at bringing professional grade open source security tools and frameworks to the masses. Our main project cryptex is one such tool. Blending ease of use with advance features such as encryption layering an even our own built in console. Dont tell anyone but we are even working on cryptographic payloads. The end goal of Cryptex is to become the metasploit of Cryptography.  
-  
-This said, this a community repository. Meaning anyone can offer up project ideas and contribute to the team.
+We are a team of developers from all of the world who are working at bringing professional grade open source security tools and frameworks to the masses. 
+This said, this a community git organization. Meaning anyone can offer up project ideas and contribute to the team. At the end of the day we aim to help people learn coding through doing.
 
 ### Important Resources:
-[Be sure to check out the manual](https://alexkollar.gitbook.io)  
 [Join our Discord](https://discord.gg/zRqrtb2yZB)  
 [If you want to sponsor us](https://github.com/sponsors/SSGOrg)
 
