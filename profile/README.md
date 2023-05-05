@@ -5,7 +5,8 @@ This said, this a community git organization. Meaning anyone can offer up projec
 ## 🤝 Sponsors / Endorsements: Thank you so much!     
 <div align="center">
 <img src="https://user-images.githubusercontent.com/89718570/234070674-51080b9a-be10-476f-9bbf-3e1e2a6cca9e.png" width="25%" height="25%">  
-</div>  
+<img src="https://user-images.githubusercontent.com/89718570/236381302-dc3dcf75-a48d-4846-ae33-2007109bf7c2.png" width="40%" height="40%">
+</div> 
   
 ## 🖐️ Get in touch
 ### You can join in on chatting with the dev team on our Discord server
