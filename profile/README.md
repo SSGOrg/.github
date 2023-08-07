@@ -4,8 +4,7 @@ This said, this a community git organization. Meaning anyone can offer up projec
   
 ## 🤝 Sponsors / Endorsements: Thank you so much!     
 <div align="center">
-<img src="https://user-images.githubusercontent.com/89718570/234070674-51080b9a-be10-476f-9bbf-3e1e2a6cca9e.png" width="25%" height="25%">  
-<img src="https://user-images.githubusercontent.com/89718570/236381302-dc3dcf75-a48d-4846-ae33-2007109bf7c2.png" width="40%" height="40%">
+<img src= https://github.com/SSGOrg/Navi/assets/89718570/5596418e-3fa3-4528-8a07-d00aeece1590 height=25% width=25%><img src= https://github.com/SSGOrg/Navi/assets/89718570/35f4a862-c31d-4445-bccf-1c08d91492a2 height=50% width=45%>
 </div> 
   
 ## 🖐️ Get in touch
