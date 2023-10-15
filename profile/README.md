@@ -15,11 +15,7 @@ In June of 2023 we made the move to turn SSG from a society into an LLC. Having 
 # 🔧 Current Projects:
 ## 1. 🤖 [Navi](https://github.com/ssgorg/Navi)
 ### Description:   
-Navi is an open source AI interface built on top of the [Echo AI Framework](https://github.com/FoxIDK/echo-ai) purpose built for Cybersecurity Professionals. 
-### Features:  
-- Automation of common tasks in cybersecurity
-- Integrated community customization repo (AKA the chip market)
-- Custom integrated AI model built from the ground up by [Fox](https://github.com/FoxIDK)
+Navi is an open source AI interface purpose built for Cybersecurity Professionals. 
 ### Documentation: [Navi Wiki](https://github.com/ssgorg/Navi/wiki)    
 ### Installation:  
    - Clone the repo: `git clone https://github.com/ssgorg/Navi`
