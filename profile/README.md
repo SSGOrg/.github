@@ -9,7 +9,7 @@ In June of 2023 we made the move to turn SSG from a society into an LLC. Having 
 
 ## 🤝 Sponsors / Endorsements: Thank you so much!     
 <div align="center">
-<img src= https://github.com/SSGOrg/Navi/assets/89718570/5596418e-3fa3-4528-8a07-d00aeece1590 height=25% width=25%><img src= https://github.com/SSGOrg/Navi/assets/89718570/35f4a862-c31d-4445-bccf-1c08d91492a2 height=50% width=45%>
+<img src= https://github.com/SSGOrg/Navi/assets/89718570/5596418e-3fa3-4528-8a07-d00aeece1590 height=25% width=25%>
 </div>  
 
 # 🔧 Current Projects:
