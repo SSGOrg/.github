@@ -56,7 +56,7 @@ We welcome contributions from the community to make our projects better. If you 
 [If you want to sponsor us](https://github.com/sponsors/SSGOrg) While not required we do appreciate it as this means our projects are cool enough to be crowd funded. 
 
 
-## 🖐️ Get in touch 📲
-### You can join in on chatting with the dev team on our Discord server
-  <a href="https://discord.gg/ecrBC9wnma"><img src="https://discordapp.com/api/guilds/879757204620726362/widget.png?style=banner3" alt="Discord Server"></a>
+## 🖐️ Get in touch
+Engage with our team on Discord!
+[![Discord Server](https://discordapp.com/api/guilds/879757204620726362/widget.png?style=banner3)](https://discord.gg/7dXPrRCRMy)
 
