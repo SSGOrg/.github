@@ -57,6 +57,6 @@ We welcome contributions from the community to make our projects better. If you 
 
 
 ## 🖐️ Get in touch
-Engage with our team on Discord!
+Engage with our team on Discord!  
 [![Discord Server](https://discordapp.com/api/guilds/879757204620726362/widget.png?style=banner3)](https://discord.gg/7dXPrRCRMy)
 
